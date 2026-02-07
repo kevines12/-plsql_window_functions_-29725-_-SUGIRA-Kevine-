@@ -56,4 +56,4 @@ Primary keys and foreign keys are used to enforce data integrity.
 ### 4.1 INNER JOIN
 Retrieves transactions with valid customers and products.
 
-![ER Diagram](/image/![ER Diagram](INNERJOIN.png)
+![ER Diagram](/Images/INNERJOIN.png)
