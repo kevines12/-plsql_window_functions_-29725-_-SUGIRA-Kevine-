@@ -56,9 +56,4 @@ Primary keys and foreign keys are used to enforce data integrity.
 ### 4.1 INNER JOIN
 Retrieves transactions with valid customers and products.
 
-```sql
-SELECT c.customer_name, p.product_name, oi.total_amount
-FROM customers c
-INNER JOIN orders o ON c.customer_id = o.customer_id
-INNER JOIN order_items oi ON o.order_id = oi.order_id
-INNER JOIN products p ON oi.product_id = p.product_id;
+![ER Diagram](/image/![ER Diagram](INNERJOIN.png)
