@@ -69,3 +69,8 @@ Compare customers and products including unmatched records
 
 ![ER Diagram](/Images/FULLOUTERJOIN.png)
 
+### SELF JOIN 
+Compare customers within the same region or transactions within the same time period
+
+![ER Diagram](/Images/SELFJOIN.png)
+
