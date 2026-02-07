@@ -64,4 +64,8 @@ Customers who never made a transaction
 (or FULL JOIN if RIGHT JOIN is avoided) Detect products with no sales activity
 
 ![ER Diagram](/Images/RIGHTJOINT.png)
+### FULL OUTER JOIN 
+Compare customers and products including unmatched records
+
+![ER Diagram](/Images/FULLOUTERJOIN.png)
 
