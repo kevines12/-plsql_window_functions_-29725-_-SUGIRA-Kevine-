@@ -57,3 +57,6 @@ Primary keys and foreign keys are used to enforce data integrity.
 Retrieves transactions with valid customers and products.
 
 ![ER Diagram](/Images/INNERJOIN.png)
+### LEFT JOIN
+Customers who never made a transaction
+![ER Diagram](/Images/LEFTJOIN.png)
