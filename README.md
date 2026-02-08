@@ -88,4 +88,10 @@ case: Running totals and trends
 
 ![ER Diagram](/Images/AGGREGATEWINDOWFUNCTION.png)
 
+### Navigation Functions 
+LAG(), LEAD() Use case: Period-to-period comparison and growth
+
+![ER Diagram](/Images/NAVIGATIONFUNCTION.png)
+
+
 
