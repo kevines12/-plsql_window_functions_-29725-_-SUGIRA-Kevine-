@@ -74,3 +74,12 @@ Compare customers within the same region or transactions within the same time pe
 
 ![ER Diagram](/Images/SELFJOIN.png)
 
+### Part B — Window Functions Implementation
+
+ ### Ranking Functions
+ ROW_NUMBER(), RANK(), DENSE_RANK(), PERCENT_RANK() Use case: Top N
+customers or products by revenue
+
+![ER Diagram](/Images/RANKINGFUNCTION.png)
+
+
