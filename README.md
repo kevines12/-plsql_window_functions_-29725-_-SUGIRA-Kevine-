@@ -93,5 +93,10 @@ LAG(), LEAD() Use case: Period-to-period comparison and growth
 
 ![ER Diagram](/Images/NAVIGATIONFUNCTION.png)
 
+### Distribution Functions
+NTILE(4), CUME_DIST() Use case: Customer segmentation
+
+![ER Diagram](/Images/DISTRIBUTIONFUNCTION.png)
+
 
 
