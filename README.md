@@ -48,7 +48,7 @@ Primary keys and foreign keys are used to enforce data integrity.
 - One **product** can appear in many **order_items**
 
 
-
+![ER Diagram](/Images/ERD.png)
 
 
 ## 4. SQL JOIN Queries (Step 4 – Part A)
