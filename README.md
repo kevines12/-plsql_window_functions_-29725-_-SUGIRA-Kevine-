@@ -82,4 +82,10 @@ customers or products by revenue
 
 ![ER Diagram](/Images/RANKINGFUNCTION.png)
 
+### Aggregate Window Functions 
+SUM(), AVG(), MIN(), MAX() Use both ROWS and RANGE frames Use
+case: Running totals and trends
+
+![ER Diagram](/Images/AGGREGATEWINDOWFUNCTION.png)
+
 
